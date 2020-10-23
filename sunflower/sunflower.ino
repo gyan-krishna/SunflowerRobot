@@ -7,9 +7,9 @@ Servo two;
 #define BR A1
 #define BL A3
 //bottom left is taken as avg 
-#define TR_ERROR 25
-#define TL_ERROR 35
-#define BR_ERROR -140
+#define TR_ERROR 0
+#define TL_ERROR 0
+#define BR_ERROR 0
 
 int pos1=90,pos2=90;
 int threshold = 30;
